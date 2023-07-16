@@ -1,0 +1,2 @@
+android:name="flutterEmbedding"
+    android:value="2" />

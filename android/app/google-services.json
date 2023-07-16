@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "241519834553",
+    "firebase_url": "https://authentication-5c368-default-rtdb.firebaseio.com",
+    "project_id": "authentication-5c368",
+    "storage_bucket": "authentication-5c368.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241519834553:android:e510b60dbdb4f544acb268",
+        "android_client_info": {
+          "package_name": "com.example.hospital_management_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241519834553-sr5at1g2prm5ijh65admk5mj0h8rvo8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSJ4VaohBaVLGbLg-0IpNvahCLlbpXXVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241519834553-sr5at1g2prm5ijh65admk5mj0h8rvo8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
